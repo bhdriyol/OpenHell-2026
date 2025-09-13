@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenHell 2026", "OpenHell 2026.vcxproj", "{12901AAD-9370-499E-9F86-62A65DE8FE4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Debug|x64.ActiveCfg = Debug|x64
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Debug|x64.Build.0 = Debug|x64
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Debug|x86.Build.0 = Debug|Win32
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Release|x64.ActiveCfg = Release|x64
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Release|x64.Build.0 = Release|x64
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Release|x86.ActiveCfg = Release|Win32
+		{12901AAD-9370-499E-9F86-62A65DE8FE4F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC70D3F0-9B57-49A9-B3F1-3C0853A6F609}
+	EndGlobalSection
+EndGlobal
