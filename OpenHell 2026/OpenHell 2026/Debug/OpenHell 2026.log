@@ -1,2 +1,2 @@
-﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+﻿  main.cpp
   OpenHell 2026.vcxproj -> C:\Users\Bahadir\Documents\GitHub\OpenHell-2026\OpenHell 2026\Debug\OpenHell 2026.exe
